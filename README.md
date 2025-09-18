@@ -29,7 +29,7 @@
 *Logistics webapp built using React, React Native, and Django Rest Framework*  
 
 <p align="center">
-  <img src="images/logistics.png" alt="Logistics App Screenshot" width="200" />
+  <img src="images/logistics.png" alt="Logistics App Screenshot" width="400" />
 </p>
 
 🔗 [View Project](http://swift-express.vercel.app/)
@@ -40,7 +40,7 @@
 *Cross-platform mobile app with Flutter, Firebase and Gemini Generative AI*  
 
 <p align="center">
-  <img src="images/Ai.png" alt="AI Study Generator Screenshot" width="200" />
+  <img src="images/Ai.png" alt="AI Study Generator Screenshot" width="400" />
 </p>
 
 🔗 [View Project](https://ai-study-note-generator-75hshhv-mhkaycey.globeapp.dev)
@@ -51,7 +51,7 @@
 *Cross-platform mobile blog app built with Flutter & JSON-Placeholder*  
 
 <p align="center">
-  <img src="images/blog.png" alt="Blog App Screenshot" width="200" />
+  <img src="images/blog.png" alt="Blog App Screenshot" width="400" />
 </p>
 
 🔗 [View Project](https://blogapp.globeapp.dev/)
@@ -62,7 +62,7 @@
 *Django RESTful API for an e-commerce platform*  
 
 <p align="center">
-  <img src="images/abokibags.png" alt="E-commerce API Screenshot" width="200" />
+  <img src="images/abokibags.png" alt="E-commerce API Screenshot" width="400" />
 </p>
 
 🔗 [View Project](https://abokibags.netlify.app)
