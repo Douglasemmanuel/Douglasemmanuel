@@ -87,9 +87,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasemmanuel&layout=compact&theme=radical)
 
 ---
-### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=douglas-emmanuel&theme=dark)](https://git.io/streak-stats)
 
 ### 📫 Let’s Connect
 
