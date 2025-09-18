@@ -90,12 +90,11 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 Portfolio: [douglas-portfoilo.vercel.app](https://douglas-portfoilo.vercel.app)
-- 💼 LinkedIn: [connect](https://www.linkedin.com/in/douglas-emmanuel-554452203)
-- 🐦 Twitter/X: [connect](https://x.com/_douglasemma21)
-- 📧 Email: emmanueldouglas2121@gmail.com
+[🌐](https://douglas-portfoilo.vercel.app) [💼](https://www.linkedin.com/in/douglas-emmanuel-554452203) [🐦](https://x.com/_douglasemma21) [✉️](mailto:emmanueldouglas2121@gmail.com)
+
 
 ---
+
 
 
 
