@@ -6,7 +6,6 @@
 
 <p align="center">
   💻 Full-Stack & Cross-Platform Software Engineer <br/>
-  
   <strong>React • React Native • Flutter • Django</strong>
 </p>
 
