@@ -25,8 +25,6 @@
 
 ### 🚀 Featured Projects
 
-> **📝 Note**: Add your own screenshots below by replacing the `https://your-image-host.com/...` URLs.
-
 #### 🌐 Logistics WebApp  
 *Logistics webapp built using React, React Native, and Django Rest Framework*  
 ![Logistics App Screenshot](https://your-image-host.com/logistics-app.png)  
