@@ -90,7 +90,11 @@
 
 ### 📫 Let’s Connect
 
-[🌐](https://douglas-portfoilo.vercel.app) [💼](https://www.linkedin.com/in/douglas-emmanuel-554452203) [🐦](https://x.com/_douglasemma21) [✉️](mailto:emmanueldouglas2121@gmail.com)
+[<img src="URL-to-website-icon.svg" alt="Website" width="24"/>](https://douglas-portfoilo.vercel.app)
+[<img src="URL-to-linkedin-icon.svg" alt="LinkedIn" width="24"/>](https://www.linkedin.com/in/douglas-emmanuel-554452203)
+[<img src="URL-to-twitter-icon.svg" alt="Twitter" width="24"/>](https://x.com/_douglasemma21)
+[<img src="URL-to-email-icon.svg" alt="Email" width="24"/>](mailto:emmanueldouglas2121@gmail.com)
+
 
 
 ---
