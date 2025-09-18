@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/110770518?v=4" width="150" height="150" style="border-radius: 50%" alt="Douglas Emmanuel" />
+  <img src="images/Douglas.jpeg" width="150" height="150" style="border-radius: 50%" alt="Douglas Emmanuel" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Douglas Emmanuel</h1>
