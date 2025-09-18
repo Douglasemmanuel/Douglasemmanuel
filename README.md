@@ -59,7 +59,7 @@
 ---
 
 #### 🛒 E-commerce API  
-* Ecommerce WebApp built using ReactJs with  Django RESTful API and paystack payment integration *  
+* Ecommerce WebApp built using ReactJs with  Django RESTful API and paystack payment integration*  
 
 <p align="center">
   <img src="images/abokibags.png" alt="E-commerce API Screenshot" width="400" />
