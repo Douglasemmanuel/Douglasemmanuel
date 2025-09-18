@@ -91,13 +91,13 @@
 ### 📫 Let’s Connect
 
 <p align="left">
-  <a href="https://douglas-portfoilo.vercel.app" target="_blank">
+  <a href="https://douglas-portfoilo.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/domain.png" alt="Website" style="border:none; vertical-align:middle;" />
   </a>
-  <a href="https://www.linkedin.com/in/douglas-emmanuel-554452203" target="_blank">
+  <a href="https://www.linkedin.com/in/douglas-emmanuel-554452203" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="border:none; vertical-align:middle;" />
   </a>
-  <a href="https://x.com/_douglasemma21" target="_blank">
+  <a href="https://x.com/_douglasemma21" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter/X" style="border:none; vertical-align:middle;" />
   </a>
   <a href="mailto:emmanueldouglas2121@gmail.com">
