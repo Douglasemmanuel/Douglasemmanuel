@@ -27,38 +27,59 @@
 
 #### 🌐 Logistics WebApp  
 *Logistics webapp built using React, React Native, and Django Rest Framework*  
-![Logistics App Screenshot](images/logistics.png)  
+
+<p align="center">
+  <img src="images/logistics.png" alt="Logistics App Screenshot" width="200" />
+</p>
+
 🔗 [View Project](http://swift-express.vercel.app/)
 
 ---
 
 #### 📱 AI Study Generator  
 *Cross-platform mobile app with Flutter, Firebase and Gemini Generative AI*  
-![AI Study Generator Screenshot](images/Ai.png)  
+
+<p align="center">
+  <img src="images/Ai.png" alt="AI Study Generator Screenshot" width="200" />
+</p>
+
 🔗 [View Project](https://ai-study-note-generator-75hshhv-mhkaycey.globeapp.dev)
 
 ---
 
 #### 📱 Blog App  
 *Cross-platform mobile blog app built with Flutter & JSON-Placeholder*  
-![Blog App Screenshot](images/blog.png)  
+
+<p align="center">
+  <img src="images/blog.png" alt="Blog App Screenshot" width="200" />
+</p>
+
 🔗 [View Project](https://blogapp.globeapp.dev/)
 
 ---
 
 #### 🛒 E-commerce API  
 *Django RESTful API for an e-commerce platform*  
-![E-commerce API Screenshot](images/abokibags.png)  
+
+<p align="center">
+  <img src="images/abokibags.png" alt="E-commerce API Screenshot" width="200" />
+</p>
+
 🔗 [View Project](https://abokibags.netlify.app)
 
 ---
 
 #### 💳 Fintech App  
 *React Native Fintech app with Django Rest Framework*  
-![Fintech App Screenshot](images/fastpay.png)  
+
+<p align="center">
+  <img src="images/fastpay.png" alt="Fintech App Screenshot" width="200" />
+</p>
+
 🔗 [View Project](https://appetize.io/app/b_spdhhrb5n4r3oax5ofldgi5wea)
 
 ---
+
 
 ### 📈 GitHub Stats
 
