@@ -31,17 +31,22 @@ I'm a results-driven software engineer with a strong focus on building modern we
 
 ### 🚀 Featured Projects
 
-- **🌐 Portfolio Website** — *Personal developer portfolio built with React & Tailwind CSS*  
-  [View Project](https://yourdomain.com) • [GitHub](https://github.com/yourusername/portfolio)
+- **🌐 Logistics WebApp** — *Logistics webapp built using React , ReactNative and Djano RestFramework*  
+  [View Project](http://swift-express.vercel.app/) 
 
-- **📱 Expense Tracker App** — *Cross-platform mobile app with Flutter & Firebase*  
-  [GitHub](https://github.com/yourusername/flutter-expense-tracker)
+- **📱 AI STUDY GENERATOR** — *Cross-platform mobile app with Flutter , Firebase and Gemini Generative AI*  
+  [View Project](https://ai-study-note-generator-75hshhv-mhkaycey.globeapp.dev)
 
-- **🛒 E-commerce API** — *Django RESTful API for an e-commerce platform*  
-  [website](https://abokibags.netlify.app)
 
-- **📱 Social App UI** — *React Native UI clone of a modern social media app*  
-  [GitHub](https://github.com/yourusername/social-ui-clone)
+- **📱 BLOG APP** — *Cross-platform mobile app with Flutter & Json-Placeholder*  
+  [View Project](https://blogapp.globeapp.dev/)
+  
+
+- **🛒 E-commerce APP** — *Django RESTful API for an e-commerce platform*  
+  [View Project](https://abokibags.netlify.app)
+
+- **📱 Fintech App ** — *React Native Fintech app with Django Rest Framework*  
+  [View Project](https://appetize.io/app/b_spdhhrb5n4r3oax5ofldgi5wea)
 
 ---
 
@@ -55,13 +60,13 @@ I'm a results-driven software engineer with a strong focus on building modern we
 
 ### 📫 Let’s Connect
 
-- 🌐 Website: [yourdomain.com](https://douglas-portfoilo.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/douglas-emmanuel-554452203)
-- 🐦 Twitter/X: [@yourhandle](https://x.com/_douglasemma21)
+- 🌐 Website: [portfolio](https://douglas-portfoilo.vercel.app)
+- 💼 LinkedIn: [connect with me](https://www.linkedin.com/in/douglas-emmanuel-554452203)
+- 🐦 Twitter/X: [connect with me ](https://x.com/_douglasemma21)
 - 📧 Email: emmanueldouglas2121@gmail.com
 
 ---
 
-> *"The best way to predict the future is to invent it." – Alan Kay*
+
 
 
