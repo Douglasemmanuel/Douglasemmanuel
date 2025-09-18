@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Douglas.jpeg" width="150" height="150" style="border-radius: 50%" alt="Douglas Emmanuel" />
+  <img src="images/Douglas.jpeg" width="150" height="150" style="border-radius: 80%" alt="Douglas Emmanuel" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Douglas Emmanuel</h1>
@@ -27,35 +27,35 @@
 
 #### 🌐 Logistics WebApp  
 *Logistics webapp built using React, React Native, and Django Rest Framework*  
-![Logistics App Screenshot](https://your-image-host.com/logistics-app.png)  
+![Logistics App Screenshot](images/logistics.png)  
 🔗 [View Project](http://swift-express.vercel.app/)
 
 ---
 
 #### 📱 AI Study Generator  
 *Cross-platform mobile app with Flutter, Firebase and Gemini Generative AI*  
-![AI Study Generator Screenshot](https://your-image-host.com/ai-study-generator.png)  
+![AI Study Generator Screenshot](images/Ai.png)  
 🔗 [View Project](https://ai-study-note-generator-75hshhv-mhkaycey.globeapp.dev)
 
 ---
 
 #### 📱 Blog App  
 *Cross-platform mobile blog app built with Flutter & JSON-Placeholder*  
-![Blog App Screenshot](https://your-image-host.com/blog-app.png)  
+![Blog App Screenshot](images/blog.png)  
 🔗 [View Project](https://blogapp.globeapp.dev/)
 
 ---
 
 #### 🛒 E-commerce API  
 *Django RESTful API for an e-commerce platform*  
-![E-commerce API Screenshot](https://your-image-host.com/ecommerce.png)  
+![E-commerce API Screenshot](images/abokibags.png)  
 🔗 [View Project](https://abokibags.netlify.app)
 
 ---
 
 #### 💳 Fintech App  
 *React Native Fintech app with Django Rest Framework*  
-![Fintech App Screenshot](https://your-image-host.com/fintech-app.png)  
+![Fintech App Screenshot](images/fastpay.png)  
 🔗 [View Project](https://appetize.io/app/b_spdhhrb5n4r3oax5ofldgi5wea)
 
 ---
@@ -70,8 +70,8 @@
 ### 📫 Let’s Connect
 
 - 🌐 Portfolio: [douglas-portfoilo.vercel.app](https://douglas-portfoilo.vercel.app)
-- 💼 LinkedIn: [Douglas Emmanuel](https://www.linkedin.com/in/douglas-emmanuel-554452203)
-- 🐦 Twitter/X: [@_douglasemma21](https://x.com/_douglasemma21)
+- 💼 LinkedIn: [connect](https://www.linkedin.com/in/douglas-emmanuel-554452203)
+- 🐦 Twitter/X: [connect](https://x.com/_douglasemma21)
 - 📧 Email: emmanueldouglas2121@gmail.com
 
 ---
