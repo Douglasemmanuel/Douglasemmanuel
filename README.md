@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Douglas
 
 ### 💻 Full-Stack & Cross-Platform Software Engineer  
 **React • React Native • Flutter • Django**
@@ -13,10 +13,10 @@ I'm a results-driven software engineer with a strong focus on building modern we
 `JavaScript` • `TypeScript` • `Python` • `Dart` • `HTML` • `CSS`
 
 **Frontend**  
-`React` • `React Native` • `Flutter` • `Next.js` • `Tailwind CSS`
+`React` • `React Native` • `Flutter` • `Tailwind CSS`
 
 **Backend**  
-`Django` • `Django Rest Framework` • `Node.js`
+`Django` • `Django Rest Framework` 
 
 **Databases**  
 `PostgreSQL` • `SQLite` • `MongoDB`
@@ -38,7 +38,7 @@ I'm a results-driven software engineer with a strong focus on building modern we
   [GitHub](https://github.com/yourusername/flutter-expense-tracker)
 
 - **🛒 E-commerce API** — *Django RESTful API for an e-commerce platform*  
-  [GitHub](https://github.com/yourusername/django-ecommerce-api)
+  [website](https://abokibags.netlify.app)
 
 - **📱 Social App UI** — *React Native UI clone of a modern social media app*  
   [GitHub](https://github.com/yourusername/social-ui-clone)
@@ -47,18 +47,18 @@ I'm a results-driven software engineer with a strong focus on building modern we
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Douglasemmanuel&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasemmanuel&layout=compact&hide=html)
 
 ---
 
 ### 📫 Let’s Connect
 
-- 🌐 Website: [yourdomain.com](https://yourdomain.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: youremail@example.com
+- 🌐 Website: [yourdomain.com](https://douglas-portfoilo.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/douglas-emmanuel-554452203)
+- 🐦 Twitter/X: [@yourhandle](https://x.com/_douglasemma21)
+- 📧 Email: emmanueldouglas2121@gmail.com
 
 ---
 
