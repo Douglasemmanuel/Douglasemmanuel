@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Douglas.jpeg" width="150" height="150" style="border-radius: 80%" alt="Douglas Emmanuel" />
+  <img src="images/Douglas.jpeg" width="200" height="200" style="border-radius: 80%" alt="Douglas Emmanuel" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Douglas Emmanuel</h1>
