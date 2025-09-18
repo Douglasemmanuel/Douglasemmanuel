@@ -90,20 +90,24 @@
 
 ### 📫 Let’s Connect
 
+
+### 📫 Let’s Connect
+
 <p align="left">
   <a href="https://douglas-portfoilo.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/domain.png" alt="Website"/>
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/douglas-emmanuel-554452203" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://x.com/_douglasemma21" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/twitter.png" alt="Twitter"/>
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter/X" />
   </a>
   <a href="mailto:emmanueldouglas2121@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/30/gmail.png" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" />
   </a>
 </p>
+
 
 
 
